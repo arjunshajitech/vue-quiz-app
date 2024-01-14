@@ -49,6 +49,11 @@ p {
     margin: 0;
 }
 
+.options-container {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 .return-button {
     width: 150px;
     height: 40px;
@@ -102,7 +107,8 @@ p {
 .label {
     padding: 16px;
     font-weight: bold;
-    background-color: lightcoral
+    background-color: lightcoral;
+    border-radius: 5px;
 }
 
 .option {
@@ -113,7 +119,7 @@ p {
 .options {
     align-items: center;
     display: flex;
-    width: 400px;
+    width: 250px;
     height: 45px;
     margin-bottom: 10px;
     border: 1px solid #111;
