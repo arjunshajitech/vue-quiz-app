@@ -1,0 +1,158 @@
+[
+    {
+        "id" : 1,
+        "name" : "MATHS",
+        "questions" : [
+            {
+                "id" : 1,
+                "question" : "5 + 3 ?",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label": "A",
+                        "option" : "5",
+                        "isCorrect" : false
+                    },
+                    {
+                        "id" : 2,
+                        "label": "B",
+                        "option" : "7",
+                        "isCorrect" : false
+                    },
+                    {
+                        "id" : 3,
+                        "label": "C",
+                        "option" : "8",
+                        "isCorrect" : true
+                    }
+                ]
+            },
+            {
+                "id" : 2,
+                "question" : "15 + 3 ?",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label": "A",
+                        "option" : "17",
+                        "isCorrect" : false
+                    },
+                    {
+                        "id" : 2,
+                        "label": "B",
+                        "option" : "18",
+                        "isCorrect" : true
+                    },
+                    {
+                        "id" : 3,
+                        "label": "C",
+                        "option" : "19",
+                        "isCorrect" : false
+                    }
+                ]
+            },{
+                "id" : 3,
+                "question" : "5 * 5 ?",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label": "A",
+                        "option" : "25",
+                        "isCorrect" : true
+                    },
+                    {
+                        "id" : 2,
+                        "label": "B",
+                        "option" : "24",
+                        "isCorrect" : false
+                    },
+                    {
+                        "id" : 3,
+                        "label": "C",
+                        "option" : "28",
+                        "isCorrect" : false
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id" : 2,
+        "name" : "HTML",
+        "questions" : [
+            {
+                "id" : 1,
+                "question" : "<p> tag used for ?",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label": "A",
+                        "option" : "Paragraph",
+                        "isCorrect" : true
+                    },
+                    {
+                        "id" : 2,
+                        "label": "B",
+                        "option" : "Text",
+                        "isCorrect" : false
+                    },
+                    {
+                        "id" : 3,
+                        "label": "C",
+                        "option" : "Image",
+                        "isCorrect" : false
+                    }
+                ]
+            },
+            {
+                "id" : 2,
+                "question" : "<img> tag used for ?",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label": "A",
+                        "option" : "Paragraph",
+                        "isCorrect" : false
+                    },
+                    {
+                        "id" : 2,
+                        "label": "B",
+                        "option" : "Text",
+                        "isCorrect" : false
+                    },
+                    {
+                        "id" : 3,
+                        "label": "C",
+                        "option" : "Image",
+                        "isCorrect" : true
+                    }
+                ]
+            },
+            {
+                "id" : 3,
+                "question" : "<h1> tag used for ?",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label": "A",
+                        "option" : "Paragraph",
+                        "isCorrect" : false
+                    },
+                    {
+                        "id" : 2,
+                        "label": "B",
+                        "option" : "Text",
+                        "isCorrect" : true
+                    },
+                    {
+                        "id" : 3,
+                        "label": "C",
+                        "option" : "Image",
+                        "isCorrect" : false
+                    }
+                ]
+            }
+        ]
+    }
+]
